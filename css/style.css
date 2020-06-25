@@ -220,7 +220,6 @@ header .logo > a{
   font-weight:800;
   float:left;
   line-height:80px;
-  padding-right:30%;
   border-bottom: 1px solid #f1f1f1;
 }
 
@@ -233,7 +232,8 @@ header .menu > a{
   font-weight:800;
   float:left;
   line-height:80px;
-  /*padding-right:40px;*/
+  padding-left:37.5%;
+  /*margin-top: 20px;*/
   border-bottom: 1px solid #f1f1f1;
 }
 
