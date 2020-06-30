@@ -20,11 +20,6 @@
     width:1000px;
   }
 
-  .prev-next{
-    max-width:1000px;
-  }
-
-
   /*
   **************************
   Portfolio Grid
@@ -72,10 +67,6 @@
 
   #full{
     width:800px;
-  }
-
-  .prev-next{
-    max-width:800px;
   }
 
 
@@ -126,18 +117,9 @@
   #full{
     width:600px;
   }
-
-  .prev-next{
-    max-width:600px;
-  }
-  
-  .home-sidebar{
-    display:none;
-  }
   
   ul.header-nav{
     width:50%;
-  
   }
   
   header li > a{
@@ -145,8 +127,6 @@
     padding-left: 15px;
   }
  
-
-
   /*
   **************************
   Portfolio Grid
@@ -195,14 +175,6 @@
     display:block !important;
   }
 
-  .menu-index{
-    display:block !important;
-  }
-
-  .prev-next{
-    max-width:400px;
-  }
-  
   .home-sidebar{
     display:none;
   }
@@ -221,20 +193,8 @@
     width:100%;
   }
   
-  .contact-one, .contact-two, .contact-three{
-    width:100%;
-  }
-  
   textarea{
     height:250px;
-  }
-
-  input.button-submit{
-    margin-bottom:100px;
-  }
-  
-  .logo, .menu-index{
-    display:block;
   }
 
   header.boxed{
@@ -292,42 +252,18 @@
     display:block !important;
   }
   
-  .menu-index{
-    display:block !important;
-  }
-
-  .prev-next{
-    max-width:280px;
-  }
-  
   .home-sidebar{
     display:none;
   }
  
-  .one-column, .two-column{
-    width:100%;
-  }
-  
-  .contact-one, .contact-two, .contact-three{
-    width:100%;
-  }
-  
-  textarea{
-    height:250px;
-  }
-  
-  input, textarea{
-    padding:0;
-  }
-
-  input.button-submit{
-    margin-bottom:100px;
-  }
-  
   header.boxed{
     display:none !important;
   }  
   
+  header .menu > a{
+	padding-left:15%;
+  }
+
   #footer-left{text-align:center;}
   
   .content .text-intro h1{
