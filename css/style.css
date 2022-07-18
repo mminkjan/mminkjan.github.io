@@ -184,10 +184,14 @@ header .menu > a{
   font-weight:800;
   float:left;
   line-height:80px;
-  padding-left:37.5%;
+  padding-left:30%;
   /*margin-top: 20px;*/
   border-bottom: 1px solid #f1f1f1;
 }
+
+header .menu > a:hover{
+    color:#c3c3c3;
+  }
 
 header li{
   text-transform:uppercase;
